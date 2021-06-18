@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Ex1 {
+public class java_inhertance {
 
 	public static void main(String[] args) {
 		// �ڹ� IO(�����) ������ ����
